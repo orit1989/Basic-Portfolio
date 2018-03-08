@@ -34,9 +34,6 @@ a {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
-h4 {
-    color: white;
-}
 
 #Hangman {
     background-color: #4aaaa5;
@@ -63,7 +60,7 @@ h4 {
     color: white;
 }
 
-/* lable { */
+label {
     color: #777777;
 }
 
@@ -71,8 +68,8 @@ input {
     color: #777777;
 }
 
-/* textarea { */
-    border-color: #777777;
+textarea {
+    color: #777777;
 }
 
 button {
@@ -80,16 +77,18 @@ button {
     background-color: #4aaaa5;
 }
 
-/* hr { */
+hr {
     color: #777777;
 }
 
-/* footer { */
+footer {
     background-color: #666666;
+    color: white;
+    font-size: 12px;
 }
 
-.copy {
-    background-color: #666666;
+/* .copy { */
+    color: white;
 }
 
 section {
@@ -104,8 +103,8 @@ div {
 
 }
 
-/* img { */
+/* img {
     width: 40px;
     height: 40px;
-}
+}*/
 
